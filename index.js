@@ -4,3 +4,10 @@ console.log("HELLO from seeu")
 //git init
 //git add remote origin
 //git branch
+
+
+//we have pushed rhe code in main branch
+
+const dummy = () => {
+    console.log("dummy")
+};
